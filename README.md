@@ -23,11 +23,13 @@ Toy factory / 1000000 / 4500 / 3500
 The factories are large (4 tiles), the ranger station is medium (2 tiles, horizontal) and
 everything else is small (1 tile). You need to keep the needs of your population met if you want
 the population to grow. The priorities for the well-being of the population are as follows:
+
 1. Housing (1 igloo for every 5 people at least)
 2. Food (1 fishing hole for every 20 people at least)
 3. Safety (a ranger station for each 25 tiles)
 4. Leisure (1 skating rink per 100 people at least)
 5. Industry (places to work)
+
 You begin by entering the dimensions of the land you want to make. Your budget is
 $4,500,000 to begin with and your population is 100 people. Every turn represents 1 month of
 time, during which the upkeep costs are subtracted from your budget, taxes are added, people
