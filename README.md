@@ -13,11 +13,17 @@ rinks. Each building has a one-time building cost, monthly upkeep costs and tax 
 are different depending on the building:
 
 Building type / Building cost / Tax income / Upkeep costs
+
 Igloo / 50000 / 1000 / 100
+
 Fishing hole / 30000 / 1000 / 500
+
 Ranger station / 150000 / 0 / 500
+
 Ice skating rink / 50000 / 1000 / 900
+
 Jacket factory / 1000000 / 4000 / 3900
+
 Toy factory / 1000000 / 4500 / 3500
 
 The factories are large (4 tiles), the ranger station is medium (2 tiles, horizontal) and
